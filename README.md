@@ -1,4 +1,9 @@
-### Hi there 👋
+### toku_san
+
+#### I'm currently learning
+
+- Operating System ([RamenOS](https://github.com/toku-sa-n/ramen))
+- Rust
 
 <!--
 **toku-sa-n/toku-sa-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
