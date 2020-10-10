@@ -1,9 +1,18 @@
 ### toku_san
 
-#### I'm currently learning
+```rust
+struct Profile{
+  likes: Vec<&'static str>,
+  projects: Vec<&'static str>,
+}
 
-- Operating System ([RamenOS](https://github.com/toku-sa-n/ramen))
-- Rust
+fn main(){
+  let toku_san = Profile{
+    likes: vec!["Writing my own OS", "Rust"],
+    projects: vec!["Ramen OS"],
+  };
+}
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toku-sa-n&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
