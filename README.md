@@ -1,16 +1,16 @@
 ### toku_san
 
 ```rust
-struct Profile{
-  likes: Vec<&'static str>,
-  projects: Vec<&'static str>,
+struct Profile {
+    likes: Vec<&'static str>,
+    projects: Vec<&'static str>,
 }
 
-fn main(){
-  let toku_san = Profile{
-    likes: vec!["Writing my own OS", "Rust"],
-    projects: vec!["Ramen OS"],
-  };
+fn main() {
+    let toku_san = Profile {
+        likes: vec!["Writing my own OS", "Rust"],
+        projects: vec!["Ramen OS"],
+    };
 }
 ```
 
