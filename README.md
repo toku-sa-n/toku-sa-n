@@ -9,7 +9,7 @@ struct Profile {
 fn main() {
     let toku_san = Profile {
         likes: vec!["Writing my own OS", "Rust", "Zakuzaku Actors"],
-        projects: vec!["Ramen OS", "Antei", "xhci crate"],
+        projects: vec!["Ramen OS", "Antei", "xhci crate", "Gimlight"],
     };
 }
 ```
