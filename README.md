@@ -17,6 +17,12 @@
 - [Git Docker](https://github.com/toku-sa-n/Krita-git-docker): A docker for viewing previous editions of currently editing file.
 - [Blob tileset viewer](https://github.com/toku-sa-n/Krita-blob-tileset-viewer): A docker for converting a 1x5 tileset to a blob tileset and viewing it.
 
+### Other contributions
+
+#### Translation
+- [Japanese-translated Rust book](https://github.com/rust-lang-ja/book-ja/pulls?q=is%3Apr+author%3A%40me+)
+- [Gentoo wiki](https://wiki.gentoo.org/wiki/User:Toku)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toku-sa-n&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
