@@ -23,6 +23,9 @@
 - [Japanese-translated Rust book](https://github.com/rust-lang-ja/book-ja/pulls?q=is%3Apr+author%3A%40me+)
 - [Gentoo wiki](https://wiki.gentoo.org/wiki/User:Toku)
 
+### Other accounts
+- [StackOverflow](https://stackoverflow.com/users/13132898/toku-sa-n)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toku-sa-n&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
