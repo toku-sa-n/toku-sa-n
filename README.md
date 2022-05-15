@@ -19,8 +19,8 @@
 
 ### Other contributions
 
-#### Translation
-- [Japanese-translated Rust book](https://github.com/rust-lang-ja/book-ja/pulls?q=is%3Apr+author%3A%40me+)
+#### Translation into Japanese
+- [Rust book](https://github.com/rust-lang-ja/book-ja/pulls?q=is%3Apr+author%3A%40me+)
 - [Gentoo wiki](https://wiki.gentoo.org/wiki/User:Toku)
 
 ### Other accounts
