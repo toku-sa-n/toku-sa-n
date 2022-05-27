@@ -27,6 +27,11 @@
 - [StackOverflow](https://stackoverflow.com/users/13132898/toku-sa-n)
 - [AtCoder](https://atcoder.jp/users/toku_san)
 
+### My environments
+- **OS**: Gentoo Linux
+- **Desktop environment**: i3wm
+- **Editor**: Vim
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toku-sa-n&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
