@@ -27,7 +27,7 @@
 - [StackOverflow](https://stackoverflow.com/users/13132898/toku-sa-n)
 - [AtCoder](https://atcoder.jp/users/toku_san)
 
-### My environments
+### My environment
 - **OS**: Gentoo Linux
 - **Desktop environment**: i3wm
 - **Editor**: Vim
