@@ -26,6 +26,8 @@
 ### Other accounts
 - [StackOverflow](https://stackoverflow.com/users/13132898/toku-sa-n)
 - [AtCoder](https://atcoder.jp/users/toku_san)
+- [Keybase](https://keybase.io/toku_san/)
+- [Blog](https://tokuchan3515.hatenablog.com/)
 
 ### My environment
 - **OS**: Gentoo Linux
