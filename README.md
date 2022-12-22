@@ -33,6 +33,8 @@
 ### My environment
 - **OS**: Gentoo Linux
 - **Desktop environment**: i3wm
+- **Terminal**: rxvt-unicode
+- **Shell**: Zsh
 - **Editor**: Vim
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toku-sa-n&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
