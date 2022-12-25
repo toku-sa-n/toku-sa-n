@@ -13,6 +13,7 @@
 - [Gimlight](https://github.com/toku-sa-n/gimlight): A roguelike game.
 - [blob-tileset-generator](https://github.com/toku-sa-n/blob-tileset-generator): A tool to generate a [blob tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) from a 1x5 tileset.
 - [Playing with syb](https://github.com/toku-sa-n/playing-with-syb): An explanation about a Haskell library `syb`.
+- [HIndent (as a collaborator)](https://github.com/mihaimaruseac/hindent): Haskell source code formatter
 
 #### Krita plugins
 - [Git Docker](https://github.com/toku-sa-n/Krita-git-docker): A docker for viewing previous editions of currently editing file.
