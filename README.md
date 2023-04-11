@@ -41,6 +41,7 @@
 - **Shell**: Zsh
 - **Editor**: Vim
 - **Tab size**: 4 spaces
+- **Keyboard layout**: Programmer Dvorak (en), Kana Input (ja)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toku-sa-n)](https://github.com/anuraghazra/github-readme-stats)
 
