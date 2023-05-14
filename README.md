@@ -39,7 +39,7 @@
 - **Desktop environment**: i3wm
 - **Terminal**: rxvt-unicode
 - **Shell**: Zsh
-- **Editor**: Vim
+- **Editor**: VSCode with Vim key-mapping
 - **Tab size**: 4 spaces
 - **Keyboard layout**: Programmer Dvorak (en), Kana Input (ja)
 
