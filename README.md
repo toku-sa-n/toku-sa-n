@@ -35,6 +35,7 @@
 - [AtCoder](https://atcoder.jp/users/toku_san)
 - [Keybase](https://keybase.io/toku_san/)
 - [Blog](https://tokuchan3515.hatenablog.com/)
+- [Scrapbox](https://scrapbox.io/toku-san/)
 
 ### My environment
 - **OS**: Gentoo Linux
