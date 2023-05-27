@@ -21,8 +21,8 @@
 #### Krita plugins
 - [Git Docker](https://github.com/toku-sa-n/Krita-git-docker): A docker for viewing previous editions of currently editing file.
 - [Blob tileset viewer](https://github.com/toku-sa-n/Krita-blob-tileset-viewer): A docker for converting a 1x5 tileset to a blob tileset and viewing it.
-- [Krita-lock-all-layers](https://github.com/toku-sa-n/Krita-lock-all-layers): An extension to lock all leaf layers.
-- [Krita-layer-finder](https://github.com/toku-sa-n/Krita-layer-finder): An docker to find layers that colorize a part of or the full selection.
+- [Lock all layers](https://github.com/toku-sa-n/Krita-lock-all-layers): An extension to lock all leaf layers.
+- [Layer finder](https://github.com/toku-sa-n/Krita-layer-finder): An docker to find layers that colorize a part of or the full selection.
 
 ### Other contributions
 
