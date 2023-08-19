@@ -19,7 +19,7 @@
 - [Programmer Dvorak trainer](https://github.com/toku-sa-n/programmer-dvorak-trainer): A typing practice tool for [Programmer Dvorak layout](https://www.kaufmann.no/roland/dvorak/)
 
 #### Coq Projects
-- [Coqfmt](https://github.com/toku-sa-n/coqfmt): Coq code formatted (written in OCaml).
+- [Coqfmt](https://github.com/toku-sa-n/coqfmt): Coq code formatter (written in OCaml).
 
 #### Krita plugins
 - [Git Docker](https://github.com/toku-sa-n/Krita-git-docker): A docker for viewing previous editions of currently editing file.
