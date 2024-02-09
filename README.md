@@ -44,6 +44,7 @@ These are the skills that either I have tried or I'm using daily and not somethi
 ### Translation into Japanese
 - [Rust book](https://github.com/rust-lang-ja/book-ja/pulls?q=is%3Apr+author%3A%40me+)
 - [Gentoo wiki](https://wiki.gentoo.org/wiki/User:Toku)
+- [KDE projects](https://jp.kde.org/community/getinvolved/translation/) (Mainly Krita)
 
 ## Other accounts
 - [StackOverflow](https://stackoverflow.com/users/13132898/toku-sa-n)
