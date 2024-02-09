@@ -29,6 +29,7 @@ These are the skills that either I have tried or I'm using daily and not somethi
 
 ### TypeScript Projects
 - [Programmer Dvorak trainer](https://github.com/toku-sa-n/programmer-dvorak-trainer): A typing practice tool for [Programmer Dvorak layout](https://www.kaufmann.no/roland/dvorak/)
+- [vscode-gettext (as a collaborator)](https://github.com/MrOrz/vscode-gettext): VSCode plugin for PO files
 
 ### Coq Projects
 - [Coqfmt](https://github.com/toku-sa-n/coqfmt): Coq code formatter (written in OCaml).
