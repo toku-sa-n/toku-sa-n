@@ -34,11 +34,12 @@ These are the skills that either I have tried or I'm using daily and not somethi
 ### Coq Projects
 - [Coqfmt](https://github.com/toku-sa-n/coqfmt): Coq code formatter (written in OCaml).
 
-### Krita plugins
+### Krita plugins and programs
 - [Git Docker](https://github.com/toku-sa-n/Krita-git-docker): A docker for viewing previous editions of currently editing file.
 - [Blob tileset viewer](https://github.com/toku-sa-n/Krita-blob-tileset-viewer): A docker for converting a 1x5 tileset to a blob tileset and viewing it.
 - [Lock all layers](https://github.com/toku-sa-n/Krita-lock-all-layers): An extension to lock all leaf layers.
 - [Layer finder](https://github.com/toku-sa-n/Krita-layer-finder): An extension to find layers that colorize a part of or the full selection.
+- [Pen pressure adjuster](https://github.com/toku-sa-n/Krita-pen-pressure-adjuster): A program to adjust the pen pressure curve.
 
 ## Other contributions
 
