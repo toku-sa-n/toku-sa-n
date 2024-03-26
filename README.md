@@ -2,8 +2,6 @@
 
 I'm **toku-sa-n**, a computer science student.
 
-![Larry the Cow and Ferris are standing](https://github.com/toku-sa-n/toku-sa-n/assets/42336339/365c38bd-7037-4b80-acd4-984a6f6f0e67)
-(This image is licensed under CC BY-SA 4.0. It is an adoption of Larry the Cow which was originally designed by Ethan Dunham and Matteo Pescarin (https://wiki.gentoo.org/wiki/Project:Artwork/Artwork#Larry_the_Cow) licensed under CC BY-SA 2.5.)
 ## Skills
 
 These are the skills that either I have tried or I'm using daily and not something that I can say I've understood a bit.
