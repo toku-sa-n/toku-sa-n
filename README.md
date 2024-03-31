@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm **toku-sa-n**, a computer science student.
+I'm **toku-sa-n**, a worker in Japan.
 
 ## Skills
 
