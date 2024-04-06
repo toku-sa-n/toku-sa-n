@@ -4,7 +4,7 @@ I'm **toku-sa-n**, a worker in Japan.
 
 ## Skills
 
-These are the skills that either I have tried or I'm using daily and not something that I can say I've understood a bit.
+These are the skills that either I have tried or I'm using daily and not something I can say I've understood a bit.
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,git,github,go,haskell,html,js,latex,linux,md,nextjs,ocaml,py,react,regex,rust,ts,vim,vscode)](https://skillicons.dev)
 
