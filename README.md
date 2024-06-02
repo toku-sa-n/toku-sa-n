@@ -58,7 +58,7 @@ These are the skills that either I have tried or I'm using daily and not somethi
 - **Desktop environment**: i3wm
 - **Terminal**: rxvt-unicode
 - **Shell**: Zsh
-- **Editor**: VSCode with Vim key-mapping
+- **Editor**: Neovim
 - **Tab size**: 4 spaces
 - **Keyboard layout**: Programmer Dvorak (en), Kana Input (ja)
 
